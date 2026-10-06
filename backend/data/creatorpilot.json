@@ -1,0 +1,614 @@
+{
+  "creator": {
+    "id": "c1",
+    "name": "Bhavana",
+    "niche": "Technology & AI",
+    "targetAudience": "College students and beginner developers",
+    "mainPlatform": "Instagram",
+    "contentLanguage": "English",
+    "contentFormats": [
+      "Reels",
+      "Carousels",
+      "Shorts"
+    ],
+    "growthGoal": "Increase engagement and saves",
+    "postingFrequency": "4 times per week",
+    "brandTone": "Simple, educational and energetic",
+    "topicsToAvoid": [
+      "Crypto drama",
+      "Aggressive selling",
+      "Generic inspirational quotes"
+    ],
+    "updatedAt": "2026-10-04T16:39:46.075Z"
+  },
+  "content": [
+    {
+      "creatorId": "c1",
+      "topic": "How to Automate Your Homework & Research Notes with AI",
+      "platform": "Instagram",
+      "format": "REEL",
+      "hook": "You're wasting hours doing tasks AI can finish in 3 minutes.",
+      "script": "0-3s: Hook showing heavy textbook stack & frustrated student overlay.\n3-8s: Tool 1 - Perplexity AI for instant academic paper citations.\n8-13s: Tool 2 - Gamma App for generating slide decks in 60 seconds.\n13-18s: Tool 3 - Notion AI for summarizing lecture recordings.\n18-22s: Call to Action: Save this reel before midterms start!",
+      "caption": "Stop grinding manually when smart tools exist! 🚀 Here are 3 game-changing AI tools every student and developer needs in their toolkit right now.\n\nWhich one are you trying first? Drop a comment below! 👇",
+      "hashtags": [
+        "#AITools",
+        "#StudentHacks",
+        "#CollegeTech",
+        "#ProductivityAI",
+        "#CreatorPilot"
+      ],
+      "cta": "Save this reel for your next project & share with a classmate!",
+      "visualPlan": "Fast-paced screen recording cutaways, bold yellow text overlays, energetic background beat.",
+      "status": "SCHEDULED",
+      "priority": "HIGH",
+      "scheduledAt": "2026-10-06T15:09:43.199Z",
+      "id": "cnt-1791212983200",
+      "createdAt": "2026-10-05T15:09:43.202Z"
+    },
+    {
+      "creatorId": "c1",
+      "topic": "How to Automate Your Homework & Research Notes with AI",
+      "platform": "Instagram",
+      "format": "REEL",
+      "hook": "You're wasting hours doing tasks AI can finish in 3 minutes.",
+      "script": "0-3s: Hook showing heavy textbook stack & frustrated student overlay.\n3-8s: Tool 1 - Perplexity AI for instant academic paper citations.\n8-13s: Tool 2 - Gamma App for generating slide decks in 60 seconds.\n13-18s: Tool 3 - Notion AI for summarizing lecture recordings.\n18-22s: Call to Action: Save this reel before midterms start!",
+      "caption": "Stop grinding manually when smart tools exist! 🚀 Here are 3 game-changing AI tools every student and developer needs in their toolkit right now.\n\nWhich one are you trying first? Drop a comment below! 👇",
+      "hashtags": [
+        "#AITools",
+        "#StudentHacks",
+        "#CollegeTech",
+        "#ProductivityAI",
+        "#CreatorPilot"
+      ],
+      "cta": "Save this reel for your next project & share with a classmate!",
+      "visualPlan": "Fast-paced screen recording cutaways, bold yellow text overlays, energetic background beat.",
+      "status": "SCHEDULED",
+      "priority": "HIGH",
+      "scheduledAt": "2026-10-06T14:26:26.571Z",
+      "id": "cnt-1791210386587",
+      "createdAt": "2026-10-05T14:26:26.587Z"
+    },
+    {
+      "creatorId": "c1",
+      "topic": "How to Automate Your Homework & Research Notes with AI",
+      "platform": "Instagram",
+      "format": "REEL",
+      "hook": "You're wasting hours doing tasks AI can finish in 3 minutes.",
+      "script": "0-3s: Hook showing heavy textbook stack & frustrated student overlay.\n3-8s: Tool 1 - Perplexity AI for instant academic paper citations.\n8-13s: Tool 2 - Gamma App for generating slide decks in 60 seconds.\n13-18s: Tool 3 - Notion AI for summarizing lecture recordings.\n18-22s: Call to Action: Save this reel before midterms start!",
+      "caption": "Stop grinding manually when smart tools exist! 🚀 Here are 3 game-changing AI tools every student and developer needs in their toolkit right now.\n\nWhich one are you trying first? Drop a comment below! 👇",
+      "hashtags": [
+        "#AITools",
+        "#StudentHacks",
+        "#CollegeTech",
+        "#ProductivityAI",
+        "#CreatorPilot"
+      ],
+      "cta": "Save this reel for your next project & share with a classmate!",
+      "visualPlan": "Fast-paced screen recording cutaways, bold yellow text overlays, energetic background beat.",
+      "status": "SCHEDULED",
+      "priority": "HIGH",
+      "scheduledAt": "2026-10-05T16:40:10.972Z",
+      "id": "cnt-1791132010972",
+      "createdAt": "2026-10-04T16:40:10.972Z"
+    },
+    {
+      "creatorId": "c1",
+      "topic": "5 AI Tools Every College Student Should Know",
+      "platform": "Instagram",
+      "format": "REEL",
+      "hook": "You're wasting hours doing tasks AI can finish in 3 minutes.",
+      "script": "0-3s: Hook showing heavy textbook stack & frustrated student overlay.\n3-8s: Tool 1 - Perplexity AI for instant academic paper citations.\n8-13s: Tool 2 - Gamma App for generating slide decks in 60 seconds.\n13-18s: Tool 3 - Notion AI for summarizing lecture recordings.\n18-22s: Call to Action: Save this reel before midterms start!",
+      "caption": "Stop grinding manually when smart tools exist! 🚀 Here are 3 game-changing AI tools every student and developer needs in their toolkit right now.\n\nWhich one are you trying first? Drop a comment below! 👇",
+      "hashtags": [
+        "#AITools",
+        "#StudentHacks",
+        "#CollegeTech",
+        "#ProductivityAI",
+        "#CreatorPilot"
+      ],
+      "cta": "Save this reel for your next project & share with a classmate!",
+      "visualPlan": "Fast-paced screen recording cutaways, bold yellow text overlays, energetic background beat.",
+      "status": "SCHEDULED",
+      "priority": "HIGH",
+      "scheduledAt": "2026-10-05T16:35:52.056Z",
+      "id": "cnt-1791131752057",
+      "createdAt": "2026-10-04T16:35:52.057Z"
+    },
+    {
+      "creatorId": "c1",
+      "topic": "5 AI Tools Every College Student Should Know",
+      "platform": "Instagram",
+      "format": "REEL",
+      "hook": "You're wasting hours doing tasks AI can finish in 3 minutes.",
+      "script": "0-3s: Hook showing heavy textbook stack & frustrated student overlay.\n3-8s: Tool 1 - Perplexity AI for instant academic paper citations.\n8-13s: Tool 2 - Gamma App for generating slide decks in 60 seconds.\n13-18s: Tool 3 - Notion AI for summarizing lecture recordings.\n18-22s: Call to Action: Save this reel before midterms start!",
+      "caption": "Stop grinding manually when smart tools exist! 🚀 Here are 3 game-changing AI tools every student and developer needs in their toolkit right now.\n\nWhich one are you trying first? Drop a comment below! 👇",
+      "hashtags": [
+        "#AITools",
+        "#StudentHacks",
+        "#CollegeTech",
+        "#ProductivityAI",
+        "#CreatorPilot"
+      ],
+      "cta": "Save this reel for your next project & share with a classmate!",
+      "visualPlan": "Fast-paced screen recording cutaways, bold yellow text overlays, energetic background beat.",
+      "status": "SCHEDULED",
+      "priority": "HIGH",
+      "scheduledAt": "2026-10-05T16:34:29.969Z",
+      "id": "cnt-1791131669969",
+      "createdAt": "2026-10-04T16:34:29.969Z"
+    },
+    {
+      "id": "cnt-1",
+      "creatorId": "c1",
+      "topic": "5 AI Tools Every College Student Should Know",
+      "platform": "Instagram",
+      "format": "REEL",
+      "hook": "You're wasting hours on manual study tasks AI can finish in 3 minutes.",
+      "script": "0-3s: Hook showing stacked textbook overload.\n3-8s: Tool 1 - Notion AI for assignment outlining.\n8-13s: Tool 2 - Perplexity for instant research citation.\n13-18s: Tool 3 - Gamma AI for slides in 60s.\n18-22s: Call to Action: Save this reel for midterms!",
+      "caption": "Stop grinding manually when smart tools exist! Here are 5 AI apps that saved me 15+ hours during college exam season. 🚀 Save this post before your next paper!",
+      "hashtags": [
+        "#AITools",
+        "#StudentHacks",
+        "#CollegeTech",
+        "#ProductivityAI",
+        "#CreatorPilot"
+      ],
+      "cta": "Save this reel for midterm season & tag a classmate!",
+      "visualPlan": "Dynamic screen recording overlays with high-contrast text popups and fast cuts.",
+      "status": "SCHEDULED",
+      "priority": "HIGH",
+      "scheduledAt": "2026-10-05T16:33:18.011Z",
+      "createdAt": "2026-10-04T16:33:18.011Z"
+    },
+    {
+      "id": "cnt-2",
+      "creatorId": "c1",
+      "topic": "Free AI Websites for Code Debugging",
+      "platform": "Instagram",
+      "format": "REEL",
+      "hook": "Stop staring at red error logs for hours.",
+      "script": "Show side-by-side terminal with error vs AI instant fix in 10 seconds.",
+      "caption": "Debugging made easy with free AI web assistants. Check these 3 gems out! 💻",
+      "hashtags": [
+        "#CodingTips",
+        "#DevLife",
+        "#AITools",
+        "#WebDev"
+      ],
+      "cta": "Share with a developer friend!",
+      "visualPlan": "Live code terminal demonstration with green highlighting.",
+      "status": "PUBLISHED",
+      "priority": "HIGH",
+      "scheduledAt": "2026-10-02T16:33:18.011Z",
+      "publishedAt": "2026-10-02T16:33:18.011Z",
+      "createdAt": "2026-10-01T16:33:18.011Z"
+    },
+    {
+      "id": "cnt-3",
+      "creatorId": "c1",
+      "topic": "Java Developer Roadmap 2026",
+      "platform": "Instagram",
+      "format": "CAROUSEL",
+      "hook": "Want to become a Java backend dev this year? Here is your exact step-by-step roadmap.",
+      "script": "Slide 1: Core Syntax\nSlide 2: Spring Boot\nSlide 3: Microservices\nSlide 4: Projects & Portfolio",
+      "caption": "Save this complete step-by-step Java backend developer blueprint! ☕",
+      "hashtags": [
+        "#Java",
+        "#BackendDev",
+        "#CodingRoadmap",
+        "#TechCareer"
+      ],
+      "cta": "Save for your learning journey.",
+      "visualPlan": "Clean slide decks with infographics and step badges.",
+      "status": "PUBLISHED",
+      "priority": "MEDIUM",
+      "scheduledAt": "2026-09-29T16:33:18.011Z",
+      "publishedAt": "2026-09-29T16:33:18.011Z",
+      "createdAt": "2026-09-28T16:33:18.011Z"
+    }
+  ],
+  "performance": [
+    {
+      "contentId": "cnt-1791212983200",
+      "topic": "How to Automate Your Homework & Research Notes with AI",
+      "category": "AI Tools",
+      "views": 16800,
+      "likes": 1550,
+      "comments": 210,
+      "shares": 740,
+      "saves": 1220,
+      "watchTime": "87%",
+      "engagementRate": 22.1,
+      "id": "perf-1791212983322",
+      "recordedAt": "2026-10-05T15:09:43.322Z"
+    },
+    {
+      "contentId": "cnt-1791210386587",
+      "topic": "How to Automate Your Homework & Research Notes with AI",
+      "category": "AI Tools",
+      "views": 16800,
+      "likes": 1550,
+      "comments": 210,
+      "shares": 740,
+      "saves": 1220,
+      "watchTime": "87%",
+      "engagementRate": 22.1,
+      "id": "perf-1791210387954",
+      "recordedAt": "2026-10-05T14:26:27.954Z"
+    },
+    {
+      "contentId": "cnt-1791132010972",
+      "topic": "How to Automate Your Homework & Research Notes with AI",
+      "category": "AI Tools",
+      "views": 16800,
+      "likes": 1550,
+      "comments": 210,
+      "shares": 740,
+      "saves": 1220,
+      "watchTime": "87%",
+      "engagementRate": 22.1,
+      "id": "perf-1791132010980",
+      "recordedAt": "2026-10-04T16:40:10.980Z"
+    },
+    {
+      "contentId": "cnt-1791131752057",
+      "topic": "5 AI Tools Every College Student Should Know",
+      "category": "AI Tools",
+      "views": 16800,
+      "likes": 1550,
+      "comments": 210,
+      "shares": 740,
+      "saves": 1220,
+      "watchTime": "87%",
+      "engagementRate": 22.1,
+      "id": "perf-1791131752062",
+      "recordedAt": "2026-10-04T16:35:52.062Z"
+    },
+    {
+      "contentId": "cnt-1791131669969",
+      "topic": "5 AI Tools Every College Student Should Know",
+      "category": "AI Tools",
+      "views": 16800,
+      "likes": 1550,
+      "comments": 210,
+      "shares": 740,
+      "saves": 1220,
+      "watchTime": "87%",
+      "engagementRate": 22.1,
+      "id": "perf-1791131669984",
+      "recordedAt": "2026-10-04T16:34:29.984Z"
+    },
+    {
+      "id": "p1",
+      "contentId": "demo-1",
+      "topic": "AI Tools for Students",
+      "category": "AI Tools",
+      "views": 15000,
+      "likes": 1400,
+      "comments": 180,
+      "shares": 650,
+      "saves": 1100,
+      "watchTime": "84%",
+      "engagementRate": 22.2,
+      "recordedAt": "2026-09-29T16:33:18.011Z"
+    },
+    {
+      "id": "p2",
+      "contentId": "demo-2",
+      "topic": "Coding Motivation",
+      "category": "Motivation",
+      "views": 4200,
+      "likes": 300,
+      "comments": 40,
+      "shares": 60,
+      "saves": 90,
+      "watchTime": "42%",
+      "engagementRate": 11.6,
+      "recordedAt": "2026-09-30T16:33:18.011Z"
+    },
+    {
+      "id": "p3",
+      "contentId": "demo-3",
+      "topic": "Free AI Websites",
+      "category": "AI Tools",
+      "views": 18000,
+      "likes": 1700,
+      "comments": 220,
+      "shares": 800,
+      "saves": 1300,
+      "watchTime": "88%",
+      "engagementRate": 22.3,
+      "recordedAt": "2026-10-01T16:33:18.011Z"
+    },
+    {
+      "id": "p4",
+      "contentId": "demo-4",
+      "topic": "Java Tips",
+      "category": "Coding",
+      "views": 8500,
+      "likes": 650,
+      "comments": 80,
+      "shares": 240,
+      "saves": 420,
+      "watchTime": "65%",
+      "engagementRate": 16.3,
+      "recordedAt": "2026-10-02T16:33:18.011Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "creatorId": "c1",
+      "recommendedTopic": "How to Automate Your Homework & Research Notes with AI",
+      "format": "REEL",
+      "objective": "SAVES_AND_SHARES",
+      "priority": "HIGH",
+      "confidence": 86,
+      "recommendedTime": "8:30 PM",
+      "reasoning": [
+        "Educational content in 'AI Tools' generated 2.4x higher saves and shares than generic motivation.",
+        "Audience signal analysis shows College students and beginner developers actively save step-by-step tool workflows.",
+        "Format alignment: Short-form Reels in Technology & AI have an 88% watch completion rate.",
+        "Content timing: 7:30 PM - 8:30 PM matches peak audience activity window on Instagram."
+      ],
+      "contentAngle": "Step-by-step workflow tutorial for students",
+      "audience": "College students and beginner developers",
+      "contentBrief": "High-energy Instagram Reel showcasing 3 fast tool demonstrations with clear on-screen visual callouts.",
+      "id": "rec-1791212982234",
+      "createdAt": "2026-10-05T15:09:42.236Z"
+    },
+    {
+      "creatorId": "c1",
+      "recommendedTopic": "How to Automate Your Homework & Research Notes with AI",
+      "format": "REEL",
+      "objective": "SAVES_AND_SHARES",
+      "priority": "HIGH",
+      "confidence": 86,
+      "recommendedTime": "8:30 PM",
+      "reasoning": [
+        "Educational content in 'AI Tools' generated 2.4x higher saves and shares than generic motivation.",
+        "Audience signal analysis shows College students and beginner developers actively save step-by-step tool workflows.",
+        "Format alignment: Short-form Reels in Technology & AI have an 88% watch completion rate.",
+        "Content timing: 7:30 PM - 8:30 PM matches peak audience activity window on Instagram."
+      ],
+      "contentAngle": "Step-by-step workflow tutorial for students",
+      "audience": "College students and beginner developers",
+      "contentBrief": "High-energy Instagram Reel showcasing 3 fast tool demonstrations with clear on-screen visual callouts.",
+      "id": "rec-1791210384856",
+      "createdAt": "2026-10-05T14:26:24.873Z"
+    },
+    {
+      "creatorId": "c1",
+      "recommendedTopic": "How to Automate Your Homework & Research Notes with AI",
+      "format": "REEL",
+      "objective": "SAVES_AND_SHARES",
+      "priority": "HIGH",
+      "confidence": 86,
+      "recommendedTime": "8:30 PM",
+      "reasoning": [
+        "Educational content in 'AI Tools' generated 2.4x higher saves and shares than generic motivation.",
+        "Audience signal analysis shows College students and beginner developers actively save step-by-step tool workflows.",
+        "Format alignment: Short-form Reels in Technology & AI have an 88% watch completion rate.",
+        "Content timing: 7:30 PM - 8:30 PM matches peak audience activity window on Instagram."
+      ],
+      "contentAngle": "Step-by-step workflow tutorial for students",
+      "audience": "College students and beginner developers",
+      "contentBrief": "High-energy Instagram Reel showcasing 3 fast tool demonstrations with clear on-screen visual callouts.",
+      "id": "rec-1791132010970",
+      "createdAt": "2026-10-04T16:40:10.970Z"
+    },
+    {
+      "creatorId": "c1",
+      "recommendedTopic": "5 AI Tools Every College Student Should Know",
+      "format": "REEL",
+      "objective": "SAVES_AND_SHARES",
+      "priority": "HIGH",
+      "confidence": 89,
+      "recommendedTime": "8:00 PM",
+      "reasoning": [
+        "Educational content in 'AI Tools' generated 2.4x higher saves and shares than generic motivation.",
+        "Audience signal analysis shows College students and beginner developers actively save step-by-step tool workflows.",
+        "Format alignment: Short-form Reels in Technology & AI have an 88% watch completion rate.",
+        "Content timing: 7:30 PM - 8:30 PM matches peak audience activity window on Instagram."
+      ],
+      "contentAngle": "High-utility student productivity shortcuts for midterms",
+      "audience": "College students and beginner developers",
+      "contentBrief": "High-energy Instagram Reel showcasing 3 fast tool demonstrations with clear on-screen visual callouts.",
+      "id": "rec-1791131752040",
+      "createdAt": "2026-10-04T16:35:52.040Z"
+    },
+    {
+      "creatorId": "c1",
+      "recommendedTopic": "5 AI Tools Every College Student Should Know",
+      "format": "REEL",
+      "objective": "SAVES_AND_SHARES",
+      "priority": "HIGH",
+      "confidence": 89,
+      "recommendedTime": "8:00 PM",
+      "reasoning": [
+        "Educational content in 'AI Tools' generated 2.4x higher saves and shares than generic motivation.",
+        "Audience signal analysis shows College students and beginner developers actively save step-by-step tool workflows.",
+        "Format alignment: Short-form Reels in Technology & AI have an 88% watch completion rate.",
+        "Content timing: 7:30 PM - 8:30 PM matches peak audience activity window on Instagram."
+      ],
+      "contentAngle": "High-utility student productivity shortcuts for midterms",
+      "audience": "College students and beginner developers",
+      "contentBrief": "High-energy Instagram Reel showcasing 3 fast tool demonstrations with clear on-screen visual callouts.",
+      "id": "rec-1791131669959",
+      "createdAt": "2026-10-04T16:34:29.960Z"
+    },
+    {
+      "id": "rec-1",
+      "creatorId": "c1",
+      "recommendedTopic": "5 AI Tools Every College Student Should Know",
+      "format": "REEL",
+      "objective": "SAVES_AND_SHARES",
+      "priority": "HIGH",
+      "confidence": 87,
+      "recommendedTime": "8:00 PM",
+      "reasoning": [
+        "Your AI education posts generated 2.4x higher saves and shares than motivational content.",
+        "Student audience signals peak engagement between 7:30 PM - 9:00 PM on weekdays.",
+        "Practical utility format (top N tools) holds 86%+ average watch completion rate.",
+        "Current content gap: High demand for mid-semester study workflow shortcuts."
+      ],
+      "contentAngle": "Actionable productivity hacks solving assignment time-sink.",
+      "audience": "College students & beginner developers",
+      "contentBrief": "High energy short reel showing 3 fast tool demos with clear text callouts.",
+      "createdAt": "2026-10-04T16:33:18.011Z"
+    }
+  ],
+  "learnings": [
+    {
+      "creatorId": "c1",
+      "whatWorked": "Educational AI tool showcases generated strong save-to-view ratios (8.1%).",
+      "whatDidntWork": "Generic motivational content generated low shares and saves (90 avg saves).",
+      "audienceSignal": "College students and beginner developers interact 3.4x more with step-by-step practical study tools.",
+      "aiLearned": "Prioritize practical AI tutorials, code debuggers, and student-focused productivity workflows over inspirational quotes.",
+      "nextRecommendation": "Create short-form reels showcasing free AI study workflows and developer tools.",
+      "impact": "High (+42% Saves & Shares)",
+      "category": "AI Tools",
+      "id": "lrn-1791212983767",
+      "createdAt": "2026-10-05T15:09:43.767Z"
+    },
+    {
+      "creatorId": "c1",
+      "whatWorked": "Educational AI tool showcases generated strong save-to-view ratios (8.1%).",
+      "whatDidntWork": "Generic motivational content generated low shares and saves (90 avg saves).",
+      "audienceSignal": "College students and beginner developers interact 3.4x more with step-by-step practical study tools.",
+      "aiLearned": "Prioritize practical AI tutorials, code debuggers, and student-focused productivity workflows over inspirational quotes.",
+      "nextRecommendation": "Create short-form reels showcasing free AI study workflows and developer tools.",
+      "impact": "High (+42% Saves & Shares)",
+      "category": "AI Tools",
+      "id": "lrn-1791210388636",
+      "createdAt": "2026-10-05T14:26:28.636Z"
+    },
+    {
+      "creatorId": "c1",
+      "whatWorked": "Educational AI tool showcases generated strong save-to-view ratios (8.1%).",
+      "whatDidntWork": "Generic motivational content generated low shares and saves (90 avg saves).",
+      "audienceSignal": "College students and beginner developers interact 3.4x more with step-by-step practical study tools.",
+      "aiLearned": "Prioritize practical AI tutorials, code debuggers, and student-focused productivity workflows over inspirational quotes.",
+      "nextRecommendation": "Create short-form reels showcasing free AI study workflows and developer tools.",
+      "impact": "High (+42% Saves & Shares)",
+      "category": "AI Tools",
+      "id": "lrn-1791132010984",
+      "createdAt": "2026-10-04T16:40:10.984Z"
+    },
+    {
+      "creatorId": "c1",
+      "whatWorked": "Educational AI tool showcases generated strong save-to-view ratios (8.1%).",
+      "whatDidntWork": "Generic motivational content generated low shares and saves (90 avg saves).",
+      "audienceSignal": "College students and beginner developers interact 3.4x more with step-by-step practical study tools.",
+      "aiLearned": "Prioritize practical AI tutorials, code debuggers, and student-focused productivity workflows over inspirational quotes.",
+      "nextRecommendation": "Create short-form reels showcasing free AI study workflows and developer tools.",
+      "impact": "High (+42% Saves & Shares)",
+      "category": "AI Tools",
+      "id": "lrn-1791131752072",
+      "createdAt": "2026-10-04T16:35:52.072Z"
+    },
+    {
+      "creatorId": "c1",
+      "whatWorked": "Educational AI tool showcases generated strong save-to-view ratios (8.0%).",
+      "whatDidntWork": "Generic motivational content generated low shares and saves (90 avg saves).",
+      "audienceSignal": "College students and beginner developers interact 3.4x more with step-by-step practical study tools.",
+      "aiLearned": "Prioritize practical AI tutorials, code debuggers, and student-focused productivity workflows over inspirational quotes.",
+      "nextRecommendation": "Create short-form reels showcasing free AI study workflows and developer tools.",
+      "impact": "High (+42% Saves & Shares)",
+      "category": "AI Tools",
+      "id": "lrn-1791131669986",
+      "createdAt": "2026-10-04T16:34:29.986Z"
+    },
+    {
+      "id": "lrn-1",
+      "creatorId": "c1",
+      "whatWorked": "Educational AI tool showcases generated strong save-to-view ratios (7.2%).",
+      "whatDidntWork": "Generic motivational content generated low shares and saves (under 2.1%).",
+      "audienceSignal": "College students react 3.4x more to step-by-step practical study tools.",
+      "aiLearned": "Prioritize practical AI tutorials and student-focused productivity workflows.",
+      "nextRecommendation": "Double down on high-utility short reels focusing on free AI study tools.",
+      "impact": "High (+42% Engagement)",
+      "category": "AI Tools",
+      "createdAt": "2026-10-04T16:33:18.011Z"
+    }
+  ],
+  "automationLogs": [
+    {
+      "eventType": "SCHEDULE",
+      "payload": {
+        "creator": {
+          "name": "Bhavana",
+          "niche": "Technology & AI",
+          "platform": "Instagram"
+        },
+        "content": {
+          "topic": "How to Automate Your Homework & Research Notes with AI",
+          "format": "REEL",
+          "scheduledAt": "2026-10-06T15:09:43.199Z"
+        }
+      },
+      "response": {
+        "message": "No N8N_WEBHOOK_URL configured. Payload logged & simulated successfully.",
+        "simulatedOutput": {
+          "status": "SCHEDULED",
+          "scheduledAt": "2026-10-06T15:09:43.255Z",
+          "n8nQueueId": "n8n-job-1791212983255"
+        }
+      },
+      "status": "SIMULATED",
+      "id": "log-1791212983257",
+      "timestamp": "2026-10-05T15:09:43.257Z"
+    },
+    {
+      "eventType": "SCHEDULE",
+      "payload": {
+        "creator": {
+          "name": "Bhavana",
+          "niche": "Technology & AI",
+          "platform": "Instagram"
+        },
+        "content": {
+          "topic": "How to Automate Your Homework & Research Notes with AI",
+          "format": "REEL",
+          "scheduledAt": "2026-10-06T14:26:26.571Z"
+        }
+      },
+      "response": {
+        "message": "No N8N_WEBHOOK_URL configured. Payload logged & simulated successfully.",
+        "simulatedOutput": {
+          "status": "SCHEDULED",
+          "scheduledAt": "2026-10-06T14:26:27.138Z",
+          "n8nQueueId": "n8n-job-1791210387188"
+        }
+      },
+      "status": "SIMULATED",
+      "id": "log-1791210387553",
+      "timestamp": "2026-10-05T14:26:27.638Z"
+    },
+    {
+      "eventType": "SCHEDULE",
+      "payload": {
+        "creator": {
+          "name": "Bhavana",
+          "niche": "Technology & AI",
+          "platform": "Instagram"
+        },
+        "content": {
+          "topic": "How to Automate Your Homework & Research Notes with AI",
+          "format": "REEL",
+          "scheduledAt": "2026-10-05T16:40:10.972Z"
+        }
+      },
+      "response": {
+        "message": "No N8N_WEBHOOK_URL configured. Payload logged & simulated successfully.",
+        "simulatedOutput": {
+          "status": "SCHEDULED",
+          "scheduledAt": "2026-10-05T16:40:10.975Z",
+          "n8nQueueId": "n8n-job-1791132010975"
+        }
+      },
+      "status": "SIMULATED",
+      "id": "log-1791132010975",
+      "timestamp": "2026-10-04T16:40:10.975Z"
+    }
+  ]
+}

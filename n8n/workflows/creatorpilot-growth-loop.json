@@ -1,0 +1,141 @@
+{
+  "name": "CreatorPilot - Autonomous AI Content Growth Loop",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "analyze",
+        "responseMode": "onReceived",
+        "options": {}
+      },
+      "name": "Webhook - Analyze Strategy",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "generate",
+        "responseMode": "onReceived",
+        "options": {}
+      },
+      "name": "Webhook - Generate Content",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 500]
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "schedule",
+        "responseMode": "onReceived",
+        "options": {}
+      },
+      "name": "Webhook - Schedule Content",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 700]
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "learning",
+        "responseMode": "onReceived",
+        "options": {}
+      },
+      "name": "Webhook - AI Learning Loop",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 900]
+    },
+    {
+      "parameters": {
+        "model": "gemini-1.5-flash",
+        "options": {}
+      },
+      "name": "Google Gemini LLM Agent",
+      "type": "n8n-nodes-base.googleGemini",
+      "typeVersion": 1,
+      "position": [550, 500]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "status",
+              "value": "SUCCESS"
+            },
+            {
+              "name": "n8nWorkflowId",
+              "value": "cp-growth-loop-v1"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "name": "Format JSON Output",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 1,
+      "position": [800, 500]
+    }
+  ],
+  "connections": {
+    "Webhook - Analyze Strategy": {
+      "main": [
+        [
+          {
+            "node": "Google Gemini LLM Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Webhook - Generate Content": {
+      "main": [
+        [
+          {
+            "node": "Google Gemini LLM Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Webhook - Schedule Content": {
+      "main": [
+        [
+          {
+            "node": "Format JSON Output",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Webhook - AI Learning Loop": {
+      "main": [
+        [
+          {
+            "node": "Google Gemini LLM Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Gemini LLM Agent": {
+      "main": [
+        [
+          {
+            "node": "Format JSON Output",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}
